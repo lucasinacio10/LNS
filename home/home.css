@@ -5,7 +5,49 @@ body {
 }
 
 * {
-    padding: 20px;
+    padding: 10px;
     font-family: "Inter", sans-serif;
     color: white;
+}
+
+.logo {
+    width: 200px;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navs {
+    display: flex;
+    align-items: center;
+}
+
+.inputs {
+    display: flex;
+    justify-content: space-between;
+    min-width: 400px;
+}
+
+.navs > div {
+    display: flex;
+    align-items: center;
+}
+
+.banner1 {
+    background-image: url("../assets/imgs/raissa\ leal.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 50%;
+}
+
+.banner2 {
+    background-image: url(../assets/imgs/Pedro-Barros2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 50%;
 }
