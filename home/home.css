@@ -5,7 +5,8 @@ body {
 }
 
 * {
-    padding: 10px;
+    padding: 0;
+    margin: 0;
     font-family: "Inter", sans-serif;
     color: white;
 }
@@ -51,3 +52,53 @@ body {
     height: 500px;
     width: 50%;
 }
+
+.banner1e2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner3 {
+    background-image: url(../assets/imgs/evento\ rio\ de\ janeiro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+
+.banner4 {
+    background-image: url(../assets/imgs/Etapa\ Sp.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    padding: 0 80px;
+    gap: 40px;
+}
+
+.imgpatrocinadores {
+   align-items: center;
+   gap: 20px;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    padding: 0 80px;
+    gap: 40px;
+}
+
+img {
+    max-width: 100px;
+}
+
+.imgpatrocinadores > img {
+    width: 50px;
+    height: 50px;
+}
+
