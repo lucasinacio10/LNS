@@ -37,43 +37,6 @@ body {
     align-items: center;
 }
 
-.banner1 {
-    background-image: url("../assets/imgs/raissa\ leal.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 500px;
-    width: 50%;
-}
-
-.banner2 {
-    background-image: url(../assets/imgs/Pedro-Barros2.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 500px;
-    width: 50%;
-}
-
-.banner1e2 {
-    display: flex;
-    justify-content: space-between;
-}
-
-.banner3 {
-    background-image: url(../assets/imgs/evento\ rio\ de\ janeiro.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 800px;
-    width: 100%;
-}
-
-.banner4 {
-    background-image: url(../assets/imgs/Etapa\ Sp.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 800px;
-    width: 100%;
-}
-
 main {
     display: flex;
     flex-direction: column;
@@ -114,11 +77,3 @@ img {
 .medias {
     display: flex;
 }
-
-
-
-
-
-
-
-
