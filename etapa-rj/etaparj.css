@@ -78,3 +78,21 @@ img {
 .medias {
     display: flex;
 }
+
+.banneretaparj {
+    background-image: url(../assets/imgs/pg\ etapa\ rj.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+
+.icons1 {
+    display: flex;
+    align-items: center;
+}
+
+.icons2 {
+    display: flex;
+    align-items: center;
+}

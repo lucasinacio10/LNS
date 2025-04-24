@@ -78,3 +78,21 @@ img {
 .medias {
     display: flex;
 }
+
+.banneretapasp {
+    background-image: url(../assets/imgs/pg\ etapa\ sp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+
+.icons1 {
+    display: flex;
+    align-items: center;
+}
+
+.icons2 {
+    display: flex;
+    align-items: center;
+}

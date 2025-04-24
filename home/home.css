@@ -9,6 +9,7 @@ body {
     margin: 0;
     font-family: "Inter", sans-serif;
     color: white;
+    text-decoration: none;
 }
 
 .logo {
